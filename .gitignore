@@ -1,0 +1,13 @@
+# Ignore scraping notebook
+Cars-24 Webscraping .ipynb
+
+# Ignore raw scraped data
+data/raw/
+
+# Ignore package folder
+procar/
+
+# Ignore documentation/config files
+README.md
+steps.txt
+pyproject.toml
