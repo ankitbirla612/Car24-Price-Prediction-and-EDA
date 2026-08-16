@@ -1,0 +1,381 @@
+,year,name,variant,price,emi,driven_km,fuel,transmission,registration,location,city
+0,2023,Nissan MAGNITE,XL,517000.0,9135.0,41774,Petrol,Manual,TS-36,"Kompally, Hyderabad",Hyderabad
+1,2022,Maruti Swift,VXI,519000.00000000006,9156.0,40355,Petrol,Manual,TS-15,"Upperpally, Attapur, Hyderabad",Hyderabad
+2,2020,Renault Kwid,CLIMBER 1.0 (O),282000.0,4982.0,66791,Petrol,Manual,TS-15,"Kompally, Hyderabad",Hyderabad
+3,2023,Maruti Swift,ZXI,593000.0,10470.0,62871,Petrol,Manual,TS-07,"Upperpally, Attapur, Hyderabad",Hyderabad
+4,2019,KIA SELTOS,HTK 1.5 PETROL,661000.0,11665.0,70038,Petrol,Manual,TS-10,"Upperpally, Attapur, Hyderabad",Hyderabad
+5,2021,Maruti Baleno,ZETA PETROL 1.2,540000.0,9525.0,53163,Petrol,Manual,TS-11,"Upperpally, Attapur, Hyderabad",Hyderabad
+6,2018,Hyundai Verna,1.6 VTVT SX O,657000.0,11600.0,59610,Petrol,Manual,TS-07,"Kompally, Hyderabad",Hyderabad
+7,2021,KIA SELTOS,HTK 1.5 PETROL,743000.0,13123.0,79687,Petrol,Manual,TS-07,"Kompally, Hyderabad",Hyderabad
+8,2019,Ford Ecosport,TITANIUM 1.5L THUNDER EDTION PETROL,631000.0,11137.0,78090,Petrol,Manual,TS-08,"Bachupally, Hyderabad",Hyderabad
+9,2018,Maruti Alto 800,LXI,220000.00000000003,3889.0,64166,Petrol,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+10,2016,Maruti Swift Dzire,VDI,359000.0,9446.0,111183,Diesel,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+11,2019,Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,422000.0,7449.0,49523,Petrol,Manual,TS-10,"Upperpally, Attapur, Hyderabad",Hyderabad
+12,2022,MG HECTOR PLUS,SELECT 2.0 DIESEL TURBO MT 7-STR,1380000.0,23629.0,61224,Diesel,Manual,AP-39,"Kompally, Hyderabad",Hyderabad
+13,2013,Maruti Swift Dzire,ZXI,320000.0,15064.0,74304,Petrol,Manual,AP-09,"Kompally, Hyderabad",Hyderabad
+14,2020,KIA SONET,GTX PLUS 1.0 DCT DUAL TONE,860000.0,14725.0,65337,Petrol,,TS-08,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+15,2016,Mahindra XUV500,W4,607000.0,15979.0,49217,Diesel,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+16,2022,Maruti Vitara Brezza,VXI,591000.0,10427.0,54374,Petrol,Manual,TS-08,"Bachupally, Hyderabad",Hyderabad
+17,2014,Maruti Swift Dzire,VDI,294000.0,13840.0,150064,Diesel,Manual,AP-31,"Kompally, Hyderabad",Hyderabad
+18,2019,Mahindra XUV500,W7,752000.0,13280.0,98564,Diesel,Manual,TS-09,"Kompally, Hyderabad",Hyderabad
+19,2014,Tata Indica Vista,VX TECH QUADRAJET,202999.99999999997,9545.0,38245,Diesel,Manual,AP-16,"Kompally, Hyderabad",Hyderabad
+20,2018,Hyundai Creta,SX 1.6 Petrol,717000.0,12652.0,83407,Petrol,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+21,2018,Datsun Go Plus,A(O),289000.0,5094.0,55781,Petrol,Manual,TS-10,"Uppal, Hyderabad",Hyderabad
+22,2015,Toyota Innova,2.5 GX 8 STR,660000.0,21925.0,98235,Diesel,Manual,TS-09,"Bachupally, Hyderabad",Hyderabad
+23,2015,Fiat Punto EVO,EMOTION 1.3 MULTIJET,240000.0,7971.0,108236,Diesel,Manual,TS-07,"Kompally, Hyderabad",Hyderabad
+24,2020,MG HECTOR,SHARP 1.5 DCT PETROL,786000.0,17475.0,139982,Petrol,,TS-08,"Bachupally, Hyderabad",Hyderabad
+25,2020,Renault Kwid,CLIMBER 1.0 (O),284000.0,5012.0,49763,Petrol,Manual,TS-15,"Kompally, Hyderabad",Hyderabad
+26,2021,Maruti Baleno,ZETA PETROL 1.2,585000.0,10327.0,61273,Petrol,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+27,2018,Tata NEXON,XZ PLUS PETROL,503000.0,8876.0,59034,Petrol,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+28,2021,Tata NEXON,XM SUNROOF PETROL,599000.0,10574.0,56947,Petrol,Manual,TS-08,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+29,2022,Maruti Swift,VXI AMT,553000.0,9762.0,46664,Petrol,,TS-08,"Kompally, Hyderabad",Hyderabad
+30,2019,Hyundai Verna,1.6 VTVT SX O,686000.0,12115.0,65467,Petrol,Manual,TS-08,"Bachupally, Hyderabad",Hyderabad
+31,2013,Maruti Swift,ZXI,305000.0,14357.0,93503,Petrol,Manual,AP-24,"Kompally, Hyderabad",Hyderabad
+32,2019,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT DUAL TONE,405000.0,7149.0,47426,Petrol,Manual,TS-15,"Kompally, Hyderabad",Hyderabad
+33,2017,Ford Ecosport,TITANIUM 1.5L PETROL,496000.0,9704.0,52713,Petrol,Manual,TS-07,"Bachupally, Hyderabad",Hyderabad
+34,2017,Volkswagen Polo,COMFORTLINE 1.2L,356000.0,6956.0,98958,Petrol,Manual,TS-09,"Bachupally, Hyderabad",Hyderabad
+35,2018,Hyundai Verna,1.6 VTVT SX,564000.0,9953.0,83392,Petrol,Manual,TS-08,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+36,2019,Mahindra XUV500,W5,699000.0,12339.0,85400,Diesel,Manual,TS-07,"Kompally, Hyderabad",Hyderabad
+37,2013,Mahindra XUV500,W8,397000.0,35282.0,97265,Diesel,Manual,AP-12,"Upperpally, Attapur, Hyderabad",Hyderabad
+38,2018,Maruti Baleno,DELTA PETROL 1.2,470000.0,8297.0,56648,Petrol,Manual,TS-10,"Kompally, Hyderabad",Hyderabad
+39,2016,Renault Kwid,RXT 0.8,187000.0,4152.0,53126,Petrol,Manual,TS-04,"Bachupally, Hyderabad",Hyderabad
+40,2021,Landrover Range Rover Evoque,SE R-DYNAMIC 2.0 PETROL,4964000.0,85004.0,15313,Petrol,,TS-07,"Upperpally, Attapur, Hyderabad",Hyderabad
+41,2021,Nissan MAGNITE,XV MT,494000.00000000006,8722.0,31678,Petrol,Manual,TS-09,"Kompally, Hyderabad",Hyderabad
+42,2022,Maruti Swift,VXI,529000.0,9338.0,58318,Petrol,Manual,TS-08,"Uppal, Hyderabad",Hyderabad
+43,2021,Maruti Baleno,ZETA PETROL 1.2,561000.0,9896.0,49422,Petrol,Manual,TS-09,"Upperpally, Attapur, Hyderabad",Hyderabad
+44,2022,Tata NEXON,XZ PLUS (HS) PETROL DARK EDITION,715000.0,12625.0,47567,Petrol,Manual,TS-07,"Upperpally, Attapur, Hyderabad",Hyderabad
+45,2020,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,438000.0,7730.0,50458,Petrol,Manual,TS-06,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+46,2019,Tata NEXON,XZ PLUS PETROL,495000.0,8740.0,68834,Petrol,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+47,2017,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,325000.0,6354.0,69386,Petrol,Manual,TS-05,"Bachupally, Hyderabad",Hyderabad
+48,2017,Maruti Alto 800,VXI O,216000.0,4223.0,54622,Petrol,Manual,TS-09,"Kompally, Hyderabad",Hyderabad
+49,2019,Ford Ecosport,TITANIUM 1.5L PETROL,523000.00000000006,9236.0,76553,Petrol,Manual,TS-07,"Upperpally, Attapur, Hyderabad",Hyderabad
+50,2013,Maruti Swift,VDI,282000.0,25073.0,79868,Diesel,Manual,AP-29,"Kompally, Hyderabad",Hyderabad
+51,2013,Hyundai Verna,FLUIDIC 1.6 CRDI EX,343000.0,30475.0,78674,Diesel,Manual,AP-12,"Kompally, Hyderabad",Hyderabad
+52,2017,Honda Amaze,1.2L I-VTEC SX,335000.0,6559.0,58883,Petrol,Manual,TS-15,"Bachupally, Hyderabad",Hyderabad
+53,2018,Volkswagen Polo,HIGHLINE PLUS 1.0 16 ALLOY,429000.0,9547.0,50081,CNG,Manual,TS-08,"Uppal, Hyderabad",Hyderabad
+54,2014,Maruti Celerio,ZXI,262000.0,8696.0,53421,Petrol,Manual,AP-09,"Kompally, Hyderabad",Hyderabad
+55,2020,Hyundai Verna,SX (O) 1.0 TURBO DCT,860000.0,14730.0,68275,Petrol,,TS-07,"Kompally, Hyderabad",Hyderabad
+56,2019,Mahindra XUV500,W7,715000.0,15906.0,140404,Diesel,Manual,TS-03,"Kompally, Hyderabad",Hyderabad
+57,2019,Mahindra XUV500,W11 AT,1030000.0000000001,17629.0,73796,Diesel,,TS-11,"Upperpally, Attapur, Hyderabad",Hyderabad
+58,2015,Datsun Go Plus,T,210000.0,5530.0,71861,Petrol,Manual,TS-10,"Uppal, Hyderabad",Hyderabad
+59,2022,Skoda SLAVIA,STYLE 1.0L TSI MT,828999.9999999999,14196.0,66940,Petrol,Manual,TS-08,"Uppal, Hyderabad",Hyderabad
+60,2014,Fiat Punto EVO,ACTIVE 1.3 MULTIJET,206000.0,9707.0,121587,Diesel,Manual,TS-07,"Kompally, Hyderabad",Hyderabad
+61,2019,MG HECTOR,SHARP HYBRID 1.5 PETROL,902000.0,15438.0,55838,Petrol,Manual,TS-10,"Uppal, Hyderabad",Hyderabad
+62,2024,Nissan MAGNITE,XV AMT EZ Shift DT,608000.0,10726.0,49340,Petrol,,TG-09,"Upperpally, Attapur, Hyderabad",Hyderabad
+63,2017,Renault Kwid,RXT 1.0 AMT,215000.0,4204.0,68498,Petrol,,TS-13,"Kompally, Hyderabad",Hyderabad
+64,2020,Maruti Baleno,ZETA CVT PETROL 1.2,528000.0,9328.0,62631,Petrol,,TS-09,"Upperpally, Attapur, Hyderabad",Hyderabad
+65,2022,Tata NEXON,XM PETROL,611000.0,10790.0,31075,Petrol,Manual,TS-07,"Uppal, Hyderabad",Hyderabad
+66,2013,Maruti Swift,ZDI,335000.0,29765.0,94083,Diesel,Manual,TS-12,"Kompally, Hyderabad",Hyderabad
+67,2023,Tata NEXON,XM SUNROOF PETROL,709000.0,12516.0,38495,Petrol,Manual,TS-07,"Bachupally, Hyderabad",Hyderabad
+68,2017,Maruti Alto 800,LXI,180000.0,3519.0,79411,Petrol,Manual,TS-08,"Uppal, Hyderabad",Hyderabad
+69,2016,Ford Ecosport,TREND+ 1.0L ECOBOOST,370000.0,8239.0,71785,Petrol,Manual,TG-15,"Bachupally, Hyderabad",Hyderabad
+70,2016,Maruti Swift,VDI (O),371000.0,9770.0,91202,Diesel,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+71,2019,Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,494000.00000000006,8719.0,20704,Petrol,Manual,TS-13,"Kompally, Hyderabad",Hyderabad
+72,2013,Volkswagen Polo,HIGHLINE DIESEL,258000.0,22884.0,101893,Diesel,Manual,AP-11,"Kompally, Hyderabad",Hyderabad
+73,2012,Hyundai Verna,FLUIDIC 1.6 CRDI SX,233000.0,,111560,Diesel,Manual,AP-28,"Upperpally, Attapur, Hyderabad",Hyderabad
+74,2015,Maruti Swift Dzire,VDI,395000.0,13126.0,104191,Diesel,Manual,TS-15,"Upperpally, Attapur, Hyderabad",Hyderabad
+75,2021,Hyundai Creta,EX 1.5 DIESEL,969999.9999999999,16609.0,84981,Diesel,Manual,TS-07,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+76,2023,KIA SELTOS,HTK 1.5 DIESEL IMT,1011999.9999999999,17330.0,43680,Diesel,Manual,TS-09,"Uppal, Hyderabad",Hyderabad
+77,2021,KIA SELTOS,HTX IVT 1.5 PETROL,951000.0,16277.0,70627,Petrol,,TS-07,"Uppal, Hyderabad",Hyderabad
+78,2015,Datsun Go Plus,T,182000.0,4803.0,80973,Petrol,Manual,TS-11,"Uppal, Hyderabad",Hyderabad
+79,2017,Toyota Corolla Altis,GL DIESEL,697000.0,15511.0,141572,Diesel,Manual,TS-11,"Bachupally, Hyderabad",Hyderabad
+80,2022,Skoda SLAVIA,STYLE 1.5L TSI DSG,1063000.0,18201.0,66460,Petrol,,TS-09,"Kompally, Hyderabad",Hyderabad
+81,2022,Toyota URBAN CRUISER HYRYDER,V HYBRID,1465000.0,25088.0,33635,Hybrid,,TS-07,"Upperpally, Attapur, Hyderabad",Hyderabad
+82,2023,Renault Kwid,CLIMBER Urban Night Limited Edition AMT,457000.0,8063.0,41976,Petrol,,TS-08,"Upperpally, Attapur, Hyderabad",Hyderabad
+83,2014,Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,242000.0,8035.0,64112,Petrol,Manual,TS-07,"Kompally, Hyderabad",Hyderabad
+84,2022,Tata NEXON,XZ PLUS (O) PETROL,767000.0,13545.0,34208,Petrol,Manual,TS-07,"Uppal, Hyderabad",Hyderabad
+85,2013,Maruti Alto 800,LXI,156000.0,7343.0,34525,Petrol,Manual,AP-28,"Kompally, Hyderabad",Hyderabad
+86,2014,Honda Amaze,1.2L I-VTEC S,252999.99999999997,8390.0,79920,Petrol,Manual,TS-13,"Kompally, Hyderabad",Hyderabad
+87,2021,Maruti Baleno,ZETA PETROL 1.2,547000.0,9658.0,87458,Petrol,Manual,TS-08,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+88,2014,Maruti Swift Dzire,VDI,357000.0,16824.0,114124,Diesel,Manual,TS-07,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+89,2018,Maruti Swift,ZDI AMT,513999.99999999994,10049.0,87301,Diesel,,TS-13,"Upperpally, Attapur, Hyderabad",Hyderabad
+90,2013,Maruti Swift,VDI,245000.00000000003,21777.0,149914,Diesel,Manual,AP-28,"Kompally, Hyderabad",Hyderabad
+91,2022,Mahindra XUV700,AX 3 P MT 5 STR,1099000.0,18818.0,82103,Petrol,Manual,TS-08,"Bachupally, Hyderabad",Hyderabad
+92,2024,Volkswagen TAIGUN,COMFORTLINE 1.0 TSI MT,907000.0,15524.0,14924,Petrol,Manual,TG-07,"Kompally, Hyderabad",Hyderabad
+93,2021,KIA SELTOS,GTX PLUS 1.4 PETROL,972000.0000000001,16639.0,84804,Petrol,Manual,TS-07,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+94,2018,Maruti Baleno,ALPHA CVT PETROL 1.2,501999.99999999994,8853.0,60303,Petrol,,TS-15,"Uppal, Hyderabad",Hyderabad
+95,2018,Datsun Redi Go,T(O) 1.0,190000.0,3354.0,40302,Petrol,Manual,TS-07,"Kompally, Hyderabad",Hyderabad
+96,2020,MG HECTOR,SMART HYBRID 1.5 PETROL,913000.0000000001,15627.0,89183,Petrol,Manual,TS-15,"Bachupally, Hyderabad",Hyderabad
+97,2022,Toyota URBAN CRUISER HYRYDER,V HYBRID,1380000.0,30005.0,108490,Hybrid,,TS-07,"Uppal, Hyderabad",Hyderabad
+98,2021,Maruti Baleno,ALPHA PETROL 1.2,584000.0,10316.0,10668,Petrol,Manual,TS-11,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+99,2019,Hyundai Grand i10,MAGNA AT 1.2 KAPPA VTVT,397000.0,7012.0,79487,Petrol,,TS-09,"Upperpally, Attapur, Hyderabad",Hyderabad
+100,2017,Tata NEXON,XZ PLUS PETROL,509999.99999999994,9968.0,88739,Petrol,Manual,TS-09,"Kompally, Hyderabad",Hyderabad
+101,2022,Tata NEXON,XZ Plus LUX,771000.0,13605.0,16057,Petrol,Manual,TS-13,"Uppal, Hyderabad",Hyderabad
+102,2022,Maruti New Wagon-R,ZXI 1.2,467000.0,8240.0,25161,Petrol,Manual,TS-07,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+103,2016,Maruti Alto K10,VXI,227000.0,5048.0,64235,Petrol,Manual,TS-07,"Uppal, Hyderabad",Hyderabad
+104,2017,Honda Amaze,1.2L I-VTEC S,338000.0,6602.0,80180,Petrol,Manual,TS-11,"Kompally, Hyderabad",Hyderabad
+105,2016,Maruti Swift Dzire,TOUR DIESEL,301000.0,7921.0,115844,Diesel,Manual,TS-09,"Kompally, Hyderabad",Hyderabad
+106,2018,Maruti Ciaz,ALPHA 1.5 SHVS PETROL,549000.0,9695.0,63494,Petrol,Manual,TS-11,"Kompally, Hyderabad",Hyderabad
+107,2023,Hyundai Verna,SX (O) 1.5 VTVT IVT,927000.0,20149.0,115800,Petrol,,TS-05,"Uppal, Hyderabad",Hyderabad
+108,2021,Volkswagen TAIGUN,TOPLINE 1.0 TSI AT,960000.0,16437.0,74853,Petrol,,TS-08,"Kompally, Hyderabad",Hyderabad
+109,2022,Mahindra XUV700,AX 7 P AT 7 STR,1506000.0,25793.0,62111,Petrol,,TS-07,"Bachupally, Hyderabad",Hyderabad
+110,2023,Mahindra XUV700,AX 5 D AT 7 STR,1594000.0,27300.0,40486,Diesel,,TS-09,"Kompally, Hyderabad",Hyderabad
+111,2018,Datsun Redi Go,A,179000.0,3166.0,53830,Petrol,Manual,TS-09,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+112,2018,Toyota YARIS,G CVT,505000.0,8915.0,74307,Petrol,,TS-11,"Bachupally, Hyderabad",Hyderabad
+113,2023,Skoda SLAVIA,AMBITION 1.0L TSI AT,977999.9999999999,16740.0,26720,Petrol,,TS-10,"Uppal, Hyderabad",Hyderabad
+114,2017,Maruti Baleno,ZETA PETROL 1.2,454000.0,8876.0,29383,Petrol,Manual,TS-08,"Uppal, Hyderabad",Hyderabad
+115,2016,Maruti Baleno,DELTA PETROL 1.2,394000.0,8755.0,84404,Petrol,Manual,TS-10,"Kompally, Hyderabad",Hyderabad
+116,2022,Hyundai NEW I20,SPORTZ 1.2 MT,548000.0,9672.0,68119,Petrol,Manual,TS-24,"Uppal, Hyderabad",Hyderabad
+117,2017,Renault Kwid,RXT 1.0 AMT,211000.0,4125.0,51514,Petrol,,TS-13,"Bachupally, Hyderabad",Hyderabad
+118,2014,Hyundai Grand i10,MAGNA 1.1 CRDI,247000.00000000003,11609.0,70389,Diesel,Manual,AP-29,"Kompally, Hyderabad",Hyderabad
+119,2022,Tata NEXON,XZ PLUS DIESEL,759000.0,13395.0,61598,Diesel,Manual,TS-11,"Uppal, Hyderabad",Hyderabad
+120,2017,Maruti Alto K10,VXI,244000.0,4767.0,58191,Petrol,Manual,TS-07,"Bachupally, Hyderabad",Hyderabad
+121,2022,Tata NEXON,XM PETROL,555000.0,12355.0,147197,Petrol,Manual,TS-24,"Kompally, Hyderabad",Hyderabad
+122,2014,Maruti Alto 800,VXI,154000.0,5118.0,47427,Petrol,Manual,TS-05,"Bachupally, Hyderabad",Hyderabad
+123,2018,Hyundai Creta,SX PLUS AT 1.6 PETROL,641000.0,14252.0,125088,Petrol,,TS-08,"Bachupally, Hyderabad",Hyderabad
+124,2017,Ford Ecosport,AMBIENTE 1.5L DIESEL,465000.00000000006,10339.0,55593,Diesel,Manual,TS-12,"Uppal, Hyderabad",Hyderabad
+125,2014,Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,231000.0,7663.0,99191,Petrol,Manual,TS-08,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+126,2016,Honda Amaze,1.2L I-VTEC S,368000.0,8186.0,39265,Petrol,Manual,TS-08,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+127,2022,Maruti S Cross,ZETA 1.5,624000.0,11021.0,75753,Petrol,Manual,TS-24,"Kompally, Hyderabad",Hyderabad
+128,2022,KIA SELTOS,GTX (O) 1.4 PETROL,1054000.0,18051.0,52485,Petrol,Manual,TS-02,"Bachupally, Hyderabad",Hyderabad
+129,2014,Hyundai i20,ASTA 1.2,306000.0,10164.0,72657,Petrol,Manual,TS-07,"GVK One Mall, Banjara Hills, Hyderabad, Telangana",Hyderabad
+130,2021,Volkswagen TAIGUN,TOPLINE 1.0 TSI MT,866000.0,18840.0,110926,Petrol,Manual,TS-07,"Bachupally, Hyderabad",Hyderabad
+131,2023,Mahindra XUV700,AX 7 LUXURY P AT 7 STR,1862000.0,31877.0,36034,Petrol,,TS-07,"Kompally, Hyderabad",Hyderabad
+132,2023,Mahindra XUV700,AX 5 D AT 5 STR,1494000.0,25581.0,44100,Diesel,,TS-09,"Bachupally, Hyderabad",Hyderabad
+133,2021,Datsun Redi Go,T(O),245000.00000000003,4325.0,60963,Petrol,Manual,TS-12,"Uppal, Hyderabad",Hyderabad
+134,2020,Toyota YARIS,G MT,628000.0,11085.0,85496,Petrol,Manual,TS-10,"Bachupally, Hyderabad",Hyderabad
+135,2022,Skoda SLAVIA,STYLE 1.0L TSI AT,858000.0,14684.0,88338,Petrol,,TS-09,"Bachupally, Hyderabad",Hyderabad
+136,2021,Maruti Baleno,ZETA CVT PETROL 1.2,579000.0,10216.0,85547,Petrol,,TS-07,"Bachupally, Hyderabad",Hyderabad
+137,2021,Nissan MAGNITE,XV PREMIUM TURBO CVT,596000.0,10530.0,32506,Petrol,,TS-07,"Uppal, Hyderabad",Hyderabad
+138,2020,Maruti Baleno,ALPHA CVT PETROL 1.2,646000.0,11411.0,20844,Petrol,,TS-09,"Bachupally, Hyderabad",Hyderabad
+139,2018,Maruti Wagon R 1.0,VXI,300000.0,5304.0,47841,Petrol,Manual,TS-09,"Bachupally, Hyderabad",Hyderabad
+140,2021,Ford Ecosport,TITANIUM 1.5L PETROL AT,573000.0,12751.0,110867,Petrol,,TS-08,"Kompally, Hyderabad",Hyderabad
+141,2022,Maruti Ciaz,ZETA 1.5 SHVS MT PETROL,584000.0,10314.0,66899,Petrol,Manual,TS-09,"Upperpally, Attapur, Hyderabad",Hyderabad
+142,2021,Mahindra Thar,LX HT PETROL 4WD MT,985000.0,16872.0,47272,Petrol,Manual,TS-03,"Kompally, Hyderabad",Hyderabad
+143,2023,Tata NEXON,XZ Plus LUXS Jet,861999.9999999999,14766.0,40370,Petrol,Manual,TS-07,"Bachupally, Hyderabad",Hyderabad
+144,2019,KIA SELTOS,GTX AT 1.4 PETROL,810000.0,13869.0,83826,Petrol,,TS-07,"Bachupally, Hyderabad",Hyderabad
+145,2021,Volkswagen TAIGUN,TOPLINE 1.0 TSI AT,838000.0000000001,18218.0,104202,Petrol,,TS-07,"Kompally, Hyderabad",Hyderabad
+146,2021,Mahindra XUV700,AX 7 LUXURY P AT 7 STR,1265000.0,27501.0,101903,Petrol,,TS-11,"Bachupally, Hyderabad",Hyderabad
+147,2018,Datsun Redi Go,T(O) 1.0 AMT,204999.99999999997,3619.0,45835,Petrol,,TS-08,"Kompally, Hyderabad",Hyderabad
+148,2020,Toyota YARIS,G MT,576000.0,12823.0,104531,Petrol,Manual,TS-08,"Uppal, Hyderabad",Hyderabad
+149,2019,MG HECTOR,SHARP 2.0 DIESEL,990000.0,21525.0,118426,Diesel,Manual,TS-07,"Upperpally, Attapur, Hyderabad",Hyderabad
+150,2019,Skoda Kodiaq,STYLE 2.0 TDI 4X4 AT,1574000.0,26951.0,79314,Diesel,,TS-07,"Kompally, Hyderabad",Hyderabad
+151,2018,Renault Kwid,RXT 1.0 AMT,244000.0,4313.0,58830,Petrol,,TS-08,"Kompally, Hyderabad",Hyderabad
+152,2022,Nissan MAGNITE,XV TURBO CVT,521000.0,9190.0,65733,Petrol,,TS-08,"Kompally, Hyderabad",Hyderabad
+153,2023,Maruti Baleno,ZETA 1.2 AGS,589000.0,10399.0,91115,Petrol,,TS-05,"Upperpally, Attapur, Hyderabad",Hyderabad
+154,2017,Ford Ecosport,TREND+ 1.0L ECOBOOST,398000.0,7791.0,82232,Petrol,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+155,2018,Maruti Wagon R 1.0,VXI,309000.0,5448.0,63358,Petrol,Manual,TS-07,"Uppal, Hyderabad",Hyderabad
+156,2023,Hyundai Creta,EX 1.5 PETROL,980000.0000000001,16780.0,26641,Petrol,Manual,TS-08,"Bachupally, Hyderabad",Hyderabad
+157,2022,Mahindra Thar,LX HT PETROL 4WD MT,959000.0,16415.0,48437,Petrol,Manual,TS-09,"Kompally, Hyderabad",Hyderabad
+158,2016,Maruti Ciaz,ZXI+ AT,463000.0,10299.0,65243,Petrol,,TS-09,"Uppal, Hyderabad",Hyderabad
+159,2022,Mahindra Thar,LX HT PETROL 4WD MT,986999.9999999999,16898.0,71090,Petrol,Manual,TS-08,"Kompally, Hyderabad",Hyderabad
+160,2015,Hyundai Eon,MAGNA +,172000.0,4529.0,43518,Petrol,Manual,,"Radisson Blu, Sector 13, Dwarka, New Delhi",Delhi
+161,2020,Maruti Swift,LXI,393000.0,6936.0,25491,Petrol,Manual,HR-26,DLF South Court Saket,Delhi
+162,2019,Maruti Swift,LXI,323000.0,5707.0,47304,Petrol,Manual,,Rajouri Garden,Delhi
+163,2017,Maruti Swift,LXI (O),223000.0,4350.0,79321,Petrol,Manual,,"Metro Walk, Rohini, New Delhi",Delhi
+164,2018,Datsun Redi Go,GOLD LIMITED EDITION,164000.0,3648.0,60214,CNG,Manual,DL-14,"Metro Walk, Rohini, New Delhi",Delhi
+165,2020,Renault TRIBER,RXE MT,291000.0,5133.0,39097,Petrol,Manual,HR-19,"Metro Walk, Rohini, New Delhi",Delhi
+166,2014,Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,161000.0,5361.0,58791,Petrol,Manual,DL-12,"Metro Walk, Rohini, New Delhi",Delhi
+167,2022,Nissan MAGNITE,XE,358000.0,6313.0,54847,Petrol,Manual,DL-14,"Metro Walk, Rohini, New Delhi",Delhi
+168,2015,Maruti Wagon R 1.0,VXI,153000.0,4029.0,84560,Petrol,Manual,,DLF South Court Saket,Delhi
+169,2016,Ford Ecosport,TREND 1.5L PETROL,249000.00000000003,5543.0,104834,Petrol,Manual,,"Radisson Blu, Sector 13, Dwarka, New Delhi",Delhi
+170,2021,Tata Tiago,XZ PETROL,304000.0,5360.0,70488,Petrol,Manual,DL-10,"Metro Walk, Rohini, New Delhi",Delhi
+171,2014,Maruti Celerio,VXI CNG,185000.0,16400.0,66646,CNG,Manual,,"Radisson Blu, Sector 13, Dwarka, New Delhi",Delhi
+172,2017,Maruti Swift,LXI (O),270000.0,5279.0,86606,Petrol,Manual,,"Metro Walk, Rohini, New Delhi",Delhi
+173,2015,Hyundai Creta,S 1.6 PETROL,388000.0,10218.0,66353,Petrol,Manual,,Rajouri Garden,Delhi
+174,2020,Hyundai Verna,SX 1.5 VTVT IVT,735000.0,12968.0,68332,Petrol,,DL-12,DLF South Court Saket,Delhi
+175,2020,Maruti Baleno,SIGMA PETROL 1.2,385000.0,6796.0,60117,Petrol,Manual,,DLF South Court Saket,Delhi
+176,2023,Maruti IGNIS,ZETA 1.2 AMT,488999.99999999994,8629.0,68687,CNG,,,"Metro Walk, Rohini, New Delhi",Delhi
+177,2016,Honda City,1.5L I-VTEC SV,344000.0,7643.0,72782,Petrol,Manual,,Rajouri Garden,Delhi
+178,2020,KIA SELTOS,HTK PLUS 1.5,599000.0,10574.0,85834,Petrol,Manual,,"Metro Walk, Rohini, New Delhi",Delhi
+179,2025,Skoda Kylaq,Signature,745000.0,13150.0,19275,Petrol,Manual,DL-14,"Metro Walk, Rohini, New Delhi",Delhi
+180,2018,Renault Kwid,RXT 1.0 (O),195000.0,3442.0,49255,Petrol,Manual,HR-11,"M3M Urbana, Golf Course Ext., Gurugram",Delhi
+181,2016,Maruti Swift,ZXI,310000.0,6902.0,65394,Petrol,Manual,UP-80,"Gaur City mall, Multilevel parking, Greater Noida",Delhi
+182,2022,Maruti Vitara Brezza,VXI,593000.0,10468.0,50327,Petrol,Manual,UP-14,"Wave One Mall, Sec-18, Noida",Delhi
+183,2017,Maruti Wagon R 1.0,VXI,235000.0,4594.0,43479,Petrol,Manual,HR-72,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3",Delhi
+184,2022,Nissan MAGNITE,XV PREMIUM TURBO CVT,580000.0,10246.0,37676,Petrol,,UP-20,"Gaur City mall, Multilevel parking, Greater Noida",Delhi
+185,2017,Renault Kwid,RXT 1.0,144000.0,2815.0,61347,Petrol,Manual,HR-87,"M3M Urbana, Golf Course Ext., Gurugram",Delhi
+186,2019,Renault Kwid,RXL,215000.0,3795.0,26519,Petrol,Manual,UP-14,"Wave One Mall, Sec-18, Noida",Delhi
+187,2024,Maruti New Wagon-R,LXI 1.0,358000.0,6313.0,46643,Petrol,Manual,HR-52,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3",Delhi
+188,2022,Tata NEXON,XZ PLUS (PREMIUM) PETROL,731000.0,12903.0,37379,Petrol,Manual,UP-52,"Wave One Mall, Sec-18, Noida",Delhi
+189,2014,Honda City,1.5L I-VTEC V MT,265000.0,8785.0,66367,Petrol,Manual,HR-14,"M3M Urbana, Golf Course Ext., Gurugram",Delhi
+190,2022,Maruti IGNIS,ZETA 1.2,376000.0,6643.0,71219,Petrol,Manual,UP-15,"Gaur City mall, Multilevel parking, Greater Noida",Delhi
+191,2021,Tata Tiago,XE PETROL,308000.0,5444.0,66760,Petrol,Manual,UP-16,"Wave One Mall, Sec-18, Noida",Delhi
+192,2024,Renault Kwid,RXT 1.0,412000.0,7267.0,19810,Petrol,Manual,UP-80,"Wave One Mall, Sec-18, Noida",Delhi
+193,2015,Hyundai Elite i20,ASTA 1.2,302000.0,7963.0,49557,Petrol,Manual,HR-26,"M3M Urbana, Golf Course Ext., Gurugram",Delhi
+194,2018,Datsun Redi Go,S 1.0,160000.0,2816.0,44529,Petrol,Manual,HR-28,"M3M Urbana, Golf Course Ext., Gurugram",Delhi
+195,2019,KIA SELTOS,HTK 1.5 PETROL,603000.0,10641.0,51008,Petrol,Manual,UP-15,"Gaur City mall, Multilevel parking, Greater Noida",Delhi
+196,2023,Toyota Glanza,G,542000.0,9573.0,50234,Petrol,Manual,UP-32,"Gaur City mall, Multilevel parking, Greater Noida",Delhi
+197,2016,Mahindra Kuv100,K6 D 6 STR,165000.0,,68044,Diesel,Manual,HR-14,"M3M Urbana, Golf Course Ext., Gurugram",Delhi
+198,2024,Hyundai Grand i10,Sportz 1.2 Hy-CNG Duo,542000.0,9568.0,58061,CNG,Manual,,"Wave One Mall, Sec-18, Noida",Delhi
+199,2020,Tata Harrier,XT PLUS 2.0L KRYOTEC DARK EDITON,789000.0,20785.0,124650,Diesel,Manual,UP-80,"Wave One Mall, Sec-18, Noida",Delhi
+200,2013,Honda City,1.5L I-VTEC V MT,296000.0,13929.0,47757,Petrol,Manual,MH-04,"Korum Mall, Thane West",Mumbai
+201,2016,Honda City,1.5L I-VTEC V MT,372000.0,8281.0,56037,Petrol,Manual,MH-01,"Regency Anantam, Dombivli East",Mumbai
+202,2021,Maruti Swift,ZXI PLUS,566000.0,9983.0,25609,Petrol,Manual,MH-31,Thakur Village Kandivali E Mumbai,Mumbai
+203,2018,Maruti Celerio,ZXI AMT,353000.0,6236.0,7481,Petrol,,MH-04,Thakur Village Kandivali E Mumbai,Mumbai
+204,2022,Skoda KUSHAQ,AMBITION 1.0L TSI MT,725000.0,12795.0,48424,Petrol,Manual,MH-31,Thakur Village Kandivali E Mumbai,Mumbai
+205,2014,Maruti Wagon R 1.0,VXI,204000.0,6789.0,22944,Petrol,Manual,MH-43,Near Belapur Dmart,Mumbai
+206,2016,Renault Kwid,RXT 0.8,179000.0,3982.0,69378,Petrol,Manual,MH-47,Thakur Village Kandivali E Mumbai,Mumbai
+207,2023,KIA SONET,HTX 1.0 IMT,747000.0,13187.0,57601,Petrol,Manual,MH-43,"Goregaon, Mumbai",Mumbai
+208,2024,Toyota Glanza,V AMT,682000.0,12046.0,7168,Petrol,,MH-02,"Goregaon, Mumbai",Mumbai
+209,2022,Maruti Dzire,ZXI AMT,576000.0,10177.0,55815,Petrol,,MH-04,"Korum Mall, Thane West",Mumbai
+210,2023,Mahindra XUV300,W6 1.2 PETROL,660000.0,11651.0,25335,Petrol,Manual,MH-28,"Korum Mall, Thane West",Mumbai
+211,2013,Hyundai i10,SPORTZ 1.2 AT,179000.0,8440.0,61966,Petrol,,MH-02,"Korum Mall, Thane West",Mumbai
+212,2016,Volkswagen Vento,HIGHLINE PETROL AT,345000.0,7667.0,48241,Petrol,,MH-04,Thakur Village Kandivali E Mumbai,Mumbai
+213,2018,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,352000.0,6219.0,46536,Petrol,Manual,MH-04,"Goregaon, Mumbai",Mumbai
+214,2017,Hyundai Creta,S 1.4 DIESEL,666000.0,14808.0,71066,Diesel,Manual,MH-49,"Regency Anantam, Dombivli East",Mumbai
+215,2016,Hyundai Creta,S 1.6 PETROL,525000.0,11683.0,30935,Petrol,Manual,MH-04,"Regency Anantam, Dombivli East",Mumbai
+216,2015,Ford Ecosport,TITANIUM 1.5L PETROL,363000.0,9555.0,17685,Petrol,Manual,MH-02,Near Belapur Dmart,Mumbai
+217,2016,Datsun Redi Go,T (O),129000.0,2878.0,48543,Petrol,Manual,MH-46,"Goregaon, Mumbai",Mumbai
+218,2022,Nissan MAGNITE,XV PREMIUM TURBO (O) CVT,609000.0,10749.0,18891,Petrol,,MH-02,"Goregaon, Mumbai",Mumbai
+219,2018,Jeep Compass,SPORT 1.4 PETROL,599000.0,10571.0,36996,Petrol,Manual,MH-03,"Regency Anantam, Dombivli East",Mumbai
+220,2019,MG HECTOR,SHARP 2.0 DIESEL,794000.0,14009.0,97617,Diesel,Manual,MH-47,"Regency Anantam, Dombivli East",Mumbai
+221,2019,MG HECTOR,SHARP 1.5 DCT PETROL,800000.0,14121.0,30380,Petrol,,MH-04,Thakur Village Kandivali E Mumbai,Mumbai
+222,2019,Maruti Ertiga,ZXI+ SHVS,712000.0,12568.0,23139,Petrol,Manual,MH-05,"Regency Anantam, Dombivli East",Mumbai
+223,2016,Hyundai Creta,SX PLUS 1.6 PETROL,570000.0,12679.0,85593,Petrol,Manual,MH-31,"Korum Mall, Thane West",Mumbai
+224,2015,Honda City,1.5L I-VTEC V MT,329000.0,8659.0,46011,Petrol,Manual,MH-01,"Regency Anantam, Dombivli East",Mumbai
+225,2021,Maruti Ertiga,ZXI+ SHVS,767000.0,13531.0,60342,Petrol,Manual,MH-02,Near Belapur Dmart,Mumbai
+226,2014,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,227999.99999999997,7563.0,44102,Petrol,Manual,MH-06,Near Belapur Dmart,Mumbai
+227,2017,Maruti Celerio,ZXI AMT,312000.0,6102.0,56310,Petrol,,MH-02,"Goregaon, Mumbai",Mumbai
+228,2021,Tata Tiago,XZ PETROL,395000.0,6971.0,62550,Petrol,Manual,MH-05,Thakur Village Kandivali E Mumbai,Mumbai
+229,2015,Maruti Wagon R 1.0,LXI CNG,227999.99999999997,10725.0,78882,CNG,Manual,MH-47,Thakur Village Kandivali E Mumbai,Mumbai
+230,2016,Maruti Swift,LXI,287000.0,6380.0,52031,Petrol,Manual,MH-48,"Goregaon, Mumbai",Mumbai
+231,2016,Renault Kwid,RXT 0.8,176000.0,3918.0,53313,Petrol,Manual,MH-04,"Goregaon, Mumbai",Mumbai
+232,2023,Toyota Glanza,G E-CNG,660000.0,11653.0,56093,CNG,Manual,MH-08,"Regency Anantam, Dombivli East",Mumbai
+233,2016,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,333000.0,7402.0,28301,Petrol,Manual,MH-02,Thakur Village Kandivali E Mumbai,Mumbai
+234,2021,KIA SONET,HTX 1.0 IMT,599000.0,10580.0,53945,Petrol,Manual,MH-02,Thakur Village Kandivali E Mumbai,Mumbai
+235,2016,Hyundai Creta,SX PLUS 1.6 PETROL,503000.0,11193.0,38993,Petrol,Manual,MH-04,Thakur Village Kandivali E Mumbai,Mumbai
+236,2021,Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT DUAL TONE,449000.0,7931.0,83757,Petrol,Manual,MH-49,Thakur Village Kandivali E Mumbai,Mumbai
+237,2022,Skoda KUSHAQ,STYLE 1.0L TSI MT,775000.0,13675.0,35345,Petrol,Manual,MH-03,Thakur Village Kandivali E Mumbai,Mumbai
+238,2022,Mahindra XUV300,W8 (O) 1.2 PETROL AMT,581000.0,10258.0,80718,Petrol,,MH-15,Near Belapur Dmart,Mumbai
+239,2023,Toyota Glanza,G E-CNG,614000.0,10836.0,74710,CNG,Manual,MH-43,"Korum Mall, Thane West",Mumbai
+240,2016,Hyundai Creta,SX PLUS 1.6 PETROL,451000.0,10028.0,45060,Petrol,Manual,MH-02,"Goregaon, Mumbai",Mumbai
+241,2014,Maruti Ertiga,ZDI,501999.99999999994,23640.0,66201,Diesel,Manual,MH-02,"Korum Mall, Thane West",Mumbai
+242,2015,Maruti Ertiga,VXI,419000.00000000006,11042.0,46366,Petrol,Manual,MH-43,"Goregaon, Mumbai",Mumbai
+243,2014,Maruti Wagon R 1.0,LXI CNG,238000.0,21155.0,34754,CNG,Manual,MH-03,Thakur Village Kandivali E Mumbai,Mumbai
+244,2015,Hyundai Eon,MAGNA +,169000.0,4450.0,56581,Petrol,Manual,MH-35,"Goregaon, Mumbai",Mumbai
+245,2019,Audi Q5,40 TDI PREMIUM PLUS,2750000.0,47087.0,77627,Diesel,,MH-02,"Goregaon, Mumbai",Mumbai
+246,2015,Maruti Ertiga,VXI,429000.0,11296.0,39595,Petrol,Manual,MH-48,"Regency Anantam, Dombivli East",Mumbai
+247,2015,Honda City,1.5L I-VTEC SV,357000.0,9401.0,66524,Petrol,Manual,MH-03,Near Belapur Dmart,Mumbai
+248,2016,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,297000.0,6597.0,58057,Petrol,Manual,MH-04,"Korum Mall, Thane West",Mumbai
+249,2019,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,341000.0,6013.0,31898,Petrol,Manual,MH-05,"Korum Mall, Thane West",Mumbai
+250,2022,Maruti Ertiga,ZXI AT SHVS,880000.0000000001,15068.0,47689,Petrol,,MH-05,"Korum Mall, Thane West",Mumbai
+251,2024,Toyota Glanza,V AMT,669000.0,11814.0,49209,Petrol,,MH-03,Thakur Village Kandivali E Mumbai,Mumbai
+252,2023,Hyundai AURA,S 1.2 CNG,590000.0,10409.0,52905,CNG,Manual,MH-49,"Korum Mall, Thane West",Mumbai
+253,2016,Maruti Baleno,DELTA PETROL 1.2,355000.0,7897.0,62834,Petrol,Manual,MH-48,Near Belapur Dmart,Mumbai
+254,2020,Tata Tiago,XT PETROL,345000.0,6093.0,34930,Petrol,Manual,MH-05,Thakur Village Kandivali E Mumbai,Mumbai
+255,2021,KIA SONET,HTK PLUS 1.0 IMT,600000.0,10586.0,40292,Petrol,Manual,MH-04,Near Belapur Dmart,Mumbai
+256,2021,Skoda KUSHAQ,AMBITION 1.0L TSI AT,675000.0,11919.0,45058,Petrol,,MH-14,Near Belapur Dmart,Mumbai
+257,2019,Mahindra XUV300,W8 1.5 DIESEL AMT,661000.0,11670.0,47935,Diesel,,MH-47,"Goregaon, Mumbai",Mumbai
+258,2017,Toyota Corolla Altis,G CVT PETROL,617000.0,12070.0,39248,Petrol,,MH-03,Thakur Village Kandivali E Mumbai,Mumbai
+259,2023,Skoda KUSHAQ,STYLE 1.5L TSI DSG,1070000.0,18321.0,74540,Petrol,,MH-49,"Korum Mall, Thane West",Mumbai
+260,2021,Maruti Swift,ZXI PLUS AMT,483000.0,8524.0,83037,Petrol,,MH-46,"Korum Mall, Thane West",Mumbai
+261,2015,Ford Ecosport,TITANIUM 1.5L PETROL AT,381000.0,10041.0,51763,Petrol,,MH-02,"Goregaon, Mumbai",Mumbai
+262,2021,Nissan MAGNITE,XV PREMIUM TURBO (O) CVT DUAL TONE,476999.99999999994,8426.0,51217,Petrol,,MH-47,Near Belapur Dmart,Mumbai
+263,2016,Datsun Redi Go,T,140000.0,3114.0,26619,Petrol,Manual,MH-02,Thakur Village Kandivali E Mumbai,Mumbai
+264,2017,Jeep Compass,LIMITED 1.4 PETROL AT,618000.0,12089.0,66520,Petrol,,MH-04,"Regency Anantam, Dombivli East",Mumbai
+265,2021,MG HECTOR,SMART 1.5 DCT PETROL,791000.0,13958.0,35231,Petrol,,MH-47,"Korum Mall, Thane West",Mumbai
+266,2023,Tata Harrier,XT PLUS 2.0L KRYOTEC DARK EDITON,1164000.0,19924.0,85806,Diesel,Manual,MH-43,"Regency Anantam, Dombivli East",Mumbai
+267,2021,Honda City,1.5L I-VTEC V MT 4TH GEN,543000.0,9584.0,30687,Petrol,Manual,MH-05,"Goregaon, Mumbai",Mumbai
+268,2015,Maruti Ertiga,VXI CNG,434999.99999999994,20463.0,126693,CNG,Manual,MH-14,"Goregaon, Mumbai",Mumbai
+269,2021,Renault Kwid,RXL,233000.0,4113.0,74937,Petrol,Manual,MH-27,"Regency Anantam, Dombivli East",Mumbai
+270,2018,Maruti Wagon R 1.0,VXI AMT,277000.0,4894.0,42084,Petrol,,MH-02,Thakur Village Kandivali E Mumbai,Mumbai
+271,2015,Maruti Wagon R 1.0,VXI AMT,252999.99999999997,6662.0,24075,Petrol,,MH-47,"Regency Anantam, Dombivli East",Mumbai
+272,2019,Maruti Celerio,VXI (O) CNG,327000.0,6401.0,69614,CNG,Manual,MH-04,Near Belapur Dmart,Mumbai
+273,2016,Tata Tiago,XZ PETROL,304000.0,6762.0,39177,Petrol,Manual,MH-05,"Goregaon, Mumbai",Mumbai
+274,2016,Tata Tiago,XZ PETROL,278000.0,6185.0,39439,Petrol,Manual,MH-47,"Regency Anantam, Dombivli East",Mumbai
+275,2016,Volkswagen Polo,COMFORTLINE 1.2L,266000.0,5924.0,74052,Petrol,Manual,MH-47,"Regency Anantam, Dombivli East",Mumbai
+276,2015,Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,285000.0,7505.0,45030,Petrol,,MH-43,Thakur Village Kandivali E Mumbai,Mumbai
+277,2015,Honda City,1.5L I-VTEC VX CVT,380000.0,10017.0,78449,Petrol,,MH-05,"Regency Anantam, Dombivli East",Mumbai
+278,2022,KIA SONET,HTX 1.0 IMT,634000.0,11188.0,54188,Petrol,Manual,MH-12,"Korum Mall, Thane West",Mumbai
+279,2017,Hyundai Creta,SX PLUS AT 1.6 PETROL,523000.00000000006,10229.0,67298,Petrol,,MH-47,"Korum Mall, Thane West",Mumbai
+280,2021,Skoda KUSHAQ,STYLE 1.0L TSI MT,977999.9999999999,16737.0,84898,Petrol,Manual,MH-48,"Regency Anantam, Dombivli East",Mumbai
+281,2022,Skoda KUSHAQ,AMBITION 1.0L TSI MT,893000.0,15295.0,23042,Petrol,Manual,MH-47,"Regency Anantam, Dombivli East",Mumbai
+282,2022,Mahindra XUV700,AX 7 D MT 7 STR,1651000.0000000002,28269.0,71632,Diesel,Manual,MH-43,Near Belapur Dmart,Mumbai
+283,2016,Toyota Corolla Altis,J DIESEL,500000.0,13167.0,101145,Diesel,Manual,MH-04,Thakur Village Kandivali E Mumbai,Mumbai
+284,2016,Maruti Wagon R 1.0,LXI CNG,263000.0,8745.0,84883,CNG,Manual,MH-01,Near Belapur Dmart,Mumbai
+285,2017,Renault Duster,110 PS RXZ DIESEL,382000.0,8502.0,114955,Diesel,Manual,MH-48,"Korum Mall, Thane West",Mumbai
+286,2014,Ford Ecosport,TITANIUM 1.0L ECOBOOST,315000.0,10477.0,22540,Petrol,Manual,MH-01,Thakur Village Kandivali E Mumbai,Mumbai
+287,2018,Jeep Compass,SPORT 1.4 PETROL,513999.99999999994,9069.0,55878,Petrol,Manual,MH-47,Near Belapur Dmart,Mumbai
+288,2018,Jeep Compass,LIMITED 2.0 DIESEL,610000.0,13569.0,108950,Diesel,Manual,MH-15,Near Belapur Dmart,Mumbai
+289,2021,MG HECTOR,SHARP 1.5 PETROL CVT,790000.0,13953.0,89511,Petrol,,MH-43,"Korum Mall, Thane West",Mumbai
+290,2018,Maruti Ertiga,VXI CNG,544000.0,12108.0,63031,CNG,Manual,MH-02,"Goregaon, Mumbai",Mumbai
+291,2017,Maruti Ertiga,VXI CNG,495000.0,13035.0,101588,CNG,Manual,MH-48,"Korum Mall, Thane West",Mumbai
+292,2021,Honda City,1.5L I-VTEC V MT 4TH GEN,613000.0,10815.0,28512,Petrol,Manual,MH-02,"Regency Anantam, Dombivli East",Mumbai
+293,2013,Maruti Ertiga,VXI CNG,326000.0,,102611,CNG,Manual,MH-01,"Regency Anantam, Dombivli East",Mumbai
+294,2016,Honda City,1.5L I-VTEC SV CVT,360000.0,8008.0,77959,Petrol,,MH-02,Thakur Village Kandivali E Mumbai,Mumbai
+295,2015,Maruti Wagon R 1.0,LXI CNG,231999.99999999997,10912.0,85882,CNG,Manual,MH-01,"Goregaon, Mumbai",Mumbai
+296,2014,Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,263000.0,8727.0,56651,Petrol,,MH-02,"Korum Mall, Thane West",Mumbai
+297,2016,Maruti Celerio,ZXI,272000.0,9038.0,56846,CNG,Manual,MH-05,"Goregaon, Mumbai",Mumbai
+298,2019,Renault Kwid,RXT 0.8,227999.99999999997,4033.0,44233,Petrol,Manual,MH-03,Near Belapur Dmart,Mumbai
+299,2016,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,259000.0,5770.0,27590,Petrol,Manual,MH-01,Thakur Village Kandivali E Mumbai,Mumbai
+300,2022,Tata Tiago,XZ PLUS PETROL,438000.0,7732.0,32379,Petrol,Manual,MH-03,Near Belapur Dmart,Mumbai
+301,2019,Hyundai GRAND I10 NIOS,MAGNA U2 1.2 CRDI,399000.0,7049.0,73317,Diesel,Manual,MH-15,Thakur Village Kandivali E Mumbai,Mumbai
+302,2018,Hyundai Creta,SX AT 1.6 PETROL,735000.0,12968.0,39125,Petrol,,MH-02,Near Belapur Dmart,Mumbai
+303,2016,Toyota Camry,HYBRID,758000.0,16850.0,100696,Hybrid,,MH-01,"Regency Anantam, Dombivli East",Mumbai
+304,2019,Hyundai Creta,SX AT 1.6 PETROL,747000.0,13193.0,53266,Petrol,,MH-43,Near Belapur Dmart,Mumbai
+305,2013,Volkswagen Vento,HIGHLINE DIESEL 1.6,254000.0,22583.0,96944,Diesel,Manual,MH-48,"Goregaon, Mumbai",Mumbai
+306,2023,Skoda KUSHAQ,MONTE CARLO 1.0L TSI MT,1036999.9999999999,17756.0,20303,Petrol,Manual,MH-05,Near Belapur Dmart,Mumbai
+307,2023,Mahindra XUV700,AX 7 LUXURY D AT 7 STR,1571000.0,34157.0,140211,Diesel,,MH-15,Near Belapur Dmart,Mumbai
+308,2023,Mahindra Thar,LX D AT 4WD HT,1303000.0,22314.0,25514,Diesel,,MH-46,"Regency Anantam, Dombivli East",Mumbai
+309,2021,Ford Ecosport,TITANIUM + 1.5L PETROL AT,613000.0,10816.0,56915,Petrol,,MH-02,"Korum Mall, Thane West",Mumbai
+310,2021,Hyundai NEW SANTRO,SPORTZ EXECUTIVE MT CNG,380000.0,6708.0,33212,CNG,Manual,MH-46,"Goregaon, Mumbai",Mumbai
+311,2018,Jeep Compass,LIMITED 1.4 PETROL AT,668000.0,11790.0,75787,Petrol,,MH-02,Thakur Village Kandivali E Mumbai,Mumbai
+312,2019,MG HECTOR,SHARP 1.5 DCT PETROL,888000.0000000001,15205.0,47125,Petrol,,MH-03,"Regency Anantam, Dombivli East",Mumbai
+313,2013,Maruti Wagon R 1.0,VXI,157000.0,7377.0,131557,Petrol,Manual,MH-03,"Regency Anantam, Dombivli East",Mumbai
+314,2016,Honda City,1.5L I-VTEC VX,400000.0,8909.0,63552,Petrol,Manual,MH-02,"Korum Mall, Thane West",Mumbai
+315,2014,Honda City,1.5L I-VTEC VX CVT,331000.0,10981.0,73616,Petrol,,MH-46,Near Belapur Dmart,Mumbai
+316,2015,Maruti Celerio,VXI,282000.0,7426.0,14879,Petrol,Manual,MH-43,"Regency Anantam, Dombivli East",Mumbai
+317,2017,Renault Kwid,CLIMBER 1.0,186000.0,3646.0,79488,Petrol,Manual,MH-11,"Goregaon, Mumbai",Mumbai
+318,2015,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,261000.0,6868.0,30580,Petrol,Manual,MH-01,"Goregaon, Mumbai",Mumbai
+319,2014,Maruti Swift,ZXI,278000.0,9230.0,76106,Petrol,Manual,MH-01,"Goregaon, Mumbai",Mumbai
+320,2018,Renault Kwid,RXL,256000.0,4523.0,64328,Petrol,Manual,KA-35,"Bellahalli, Bengaluru",Bangalore
+321,2015,Hyundai Elite i20,SPORTZ 1.2,455000.0,11982.0,76326,Petrol,Manual,KA-53,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",Bangalore
+322,2017,Datsun Redi Go,T (O),160000.0,3128.0,64124,Petrol,Manual,KA-19,"Bellahalli, Bengaluru",Bangalore
+323,2022,Renault Kwid,CLIMBER 1.0 AMT (O),372000.0,6563.0,34918,Petrol,,KA-37,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",Bangalore
+324,2022,KIA SONET,HTX ANNIVERSARY EDITION 1.0 IMT,778000.0,13734.0,36314,Petrol,Manual,KA-05,"Bellahalli, Bengaluru",Bangalore
+325,2017,Maruti Baleno,ZETA PETROL 1.2,475000.0,9291.0,61040,Petrol,Manual,KA-03,"GT World Mall, Bengaluru",Bangalore
+326,2017,Tata NEXON,XZ PLUS PETROL,528000.0,10315.0,58960,Petrol,Manual,KA-05,Gandhi Nagar,Bangalore
+327,2013,Ford Figo,TITANIUM 1.2 PETROL,185000.0,8709.0,63801,Petrol,Manual,KA-05,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",Bangalore
+328,2013,Hyundai i20,ASTA 1.2,306000.0,14421.0,55014,Petrol,Manual,KA-01,Nexus Whitefield,Bangalore
+329,2021,Maruti Baleno,DELTA PETROL 1.2,554000.0,9777.0,49791,Petrol,Manual,KA-66,"Bellahalli, Bengaluru",Bangalore
+330,2014,Maruti Wagon R 1.0,VXI,229000.0,7618.0,132169,Petrol,Manual,KA-02,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",Bangalore
+331,2015,Maruti Swift,LXI,325000.0,8558.0,113654,Petrol,Manual,KA-22,"Bellahalli, Bengaluru",Bangalore
+332,2018,Ford Ecosport,TITANIUM 1.5L PETROL,590000.0,10420.0,54176,Petrol,Manual,KA-05,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",Bangalore
+333,2016,Chevrolet Beat,PS PETROL,204000.0,4543.0,67440,Petrol,Manual,KA-20,Nexus Whitefield,Bangalore
+334,2022,Nissan MAGNITE,XV DUAL TONE,537000.0,9485.0,61055,Petrol,Manual,KA-06,"Bellahalli, Bengaluru",Bangalore
+335,2014,Maruti Alto K10,VXI,179000.0,5945.0,76242,Petrol,Manual,KA-22,"Bellahalli, Bengaluru",Bangalore
+336,2021,Hyundai VENUE,S 1.2,677000.0,11946.0,50490,Petrol,Manual,KA-31,"Bellahalli, Bengaluru",Bangalore
+337,2017,Tata Tiago,XT PETROL,301000.0,5889.0,81670,Petrol,Manual,KA-04,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",Bangalore
+338,2022,Maruti Swift,ZXI,538000.0,9504.0,95968,Petrol,Manual,KA-26,Gandhi Nagar,Bangalore
+339,2020,Honda City,1.5L I-VTEC V MT,709000.0,12515.0,65096,Petrol,Manual,KA-04,"Bellahalli, Bengaluru",Bangalore
+340,2021,Maruti Swift,VXI,581000.0,10253.0,60180,Petrol,Manual,TN-07,Sholinganallur,Chennai
+341,2025,Renault Kwid,RXT 1.0,490000.00000000006,8651.0,4762,Petrol,Manual,TN-22,"Nexus Vijaya Mall, Vadapalani",Chennai
+342,2022,Renault Kwid,RXL 1.0 (O),403000.0,7105.0,25244,Petrol,Manual,TN-23,"Nexus Vijaya Mall, Vadapalani",Chennai
+343,2018,Renault Kwid,RXL,288000.0,5084.0,36554,Petrol,Manual,TN-14,"Thiruverkadu, Chennai",Chennai
+344,2016,Volkswagen Polo,HIGHLINE1.2L,497000.0,11051.0,45401,Petrol,Manual,TN-06,Sholinganallur,Chennai
+345,2019,Hyundai Grand i10,SPORTZ AT 1.2 KAPPA VTVT,488000.0,8615.0,76726,Petrol,,TN-03,"Nexus Vijaya Mall, Vadapalani",Chennai
+346,2019,Tata NEXON,XT PLUS PETROL,535000.0,9444.0,56618,Petrol,Manual,TN-45,Sholinganallur,Chennai
+347,2018,Datsun Redi Go,S,258000.0,4554.0,58332,Petrol,Manual,TN-14,"Thiruverkadu, Chennai",Chennai
+348,2021,Honda Amaze,1.2L I-VTEC S,566000.0,9988.0,52152,Petrol,Manual,TN-14,"Nexus Vijaya Mall, Vadapalani",Chennai
+349,2016,Maruti Celerio,ZXI AMT,353000.0,7852.0,57039,Petrol,,TN-22,Sholinganallur,Chennai
+350,2015,Maruti Wagon R 1.0,VXI,293000.0,7720.0,25852,Petrol,Manual,TN-13,"Thiruverkadu, Chennai",Chennai
+351,2021,KIA SONET,HTX 1.0 IMT,687000.0,12134.0,95441,Petrol,Manual,TN-61,"Nexus Vijaya Mall, Vadapalani",Chennai
+352,2018,Maruti Celerio,VXI AMT,374000.0,6604.0,73516,Petrol,,TN-05,Sholinganallur,Chennai
+353,2019,Ford Ecosport,TITANIUM 1.5L PETROL,585000.0,10336.0,69590,Petrol,Manual,TN-01,"Nexus Vijaya Mall, Vadapalani",Chennai
+354,2017,Maruti Alto 800,LXI,273000.0,5347.0,77718,Petrol,Manual,TN-18,Sholinganallur,Chennai
+355,2019,Honda City,1.5L I-VTEC ZX,791000.0,13963.0,50718,Petrol,Manual,TN-18,"Thiruverkadu, Chennai",Chennai
+356,2016,Mahindra TUV300,T8,558000.0,14707.0,75274,Diesel,Manual,TN-01,"Nexus Vijaya Mall, Vadapalani",Chennai
+357,2019,Hyundai Tucson,GLS 2WD AT PETROL,1065000.0,18235.0,79823,Petrol,,TN-01,Sholinganallur,Chennai
+358,2021,Nissan MAGNITE,XV TURBO,577000.0,10186.0,44794,Petrol,Manual,TN-11,"Nexus Vijaya Mall, Vadapalani",Chennai
+359,2023,Skoda KUSHAQ,Active plus 1.0 TSI,717000.0,12666.0,78289,Petrol,Manual,TN-04,"Thiruverkadu, Chennai",Chennai
+360,2018,Toyota YARIS,VX MT,608000.0,10733.0,77151,Petrol,Manual,TN-11,"Thiruverkadu, Chennai",Chennai
+361,2020,MG HECTOR,SHARP 1.5 DCT PETROL,1122000.0,19213.0,42080,Petrol,,TN-23,"Nexus Vijaya Mall, Vadapalani",Chennai
+362,2018,Jeep Compass,LIMITED 1.4 PETROL AT,861999.9999999999,14752.0,72894,Petrol,,TN-14,"Nexus Vijaya Mall, Vadapalani",Chennai
+363,2018,Hyundai Eon,ERA +,290000.0,5119.0,50166,Petrol,Manual,TN-09,Sholinganallur,Chennai
+364,2019,Renault Kwid,RXT 1.0 (O),338000.0,5967.0,60583,Petrol,Manual,TN-05,"Nexus Vijaya Mall, Vadapalani",Chennai
+365,2021,Volkswagen Polo,COMFORTLINE 1.0L TSI AT,663000.0,11704.0,78806,Petrol,,TN-07,"Thiruverkadu, Chennai",Chennai
+366,2019,Tata NEXON,XZ PLUS PETROL,586000.0,10341.0,50354,Petrol,Manual,TN-05,Sholinganallur,Chennai
+367,2015,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,330000.0,8680.0,42315,Petrol,Manual,TN-01,Sholinganallur,Chennai
+368,2022,Tata NEXON,XZ PLUS PETROL,713000.0,12585.0,19092,Petrol,Manual,TN-12,"Nexus Vijaya Mall, Vadapalani",Chennai
+369,2016,Datsun Redi Go,S,202999.99999999997,4516.0,72632,Petrol,Manual,TN-01,Sholinganallur,Chennai
+370,2014,Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,350000.0,11638.0,39773,Petrol,Manual,TN-13,Sholinganallur,Chennai
+371,2018,Maruti Celerio,ZXI AMT (O),413000.0,7283.0,31733,Petrol,,TN-04,"Thiruverkadu, Chennai",Chennai
+372,2019,Hyundai VENUE,SX PLUS 1.0 TURBO DCT,656000.0,11573.0,48723,Petrol,,TN-07,"Nexus Vijaya Mall, Vadapalani",Chennai
+373,2021,KIA SONET,HTX 1.0 IMT,650000.0,11467.0,87623,Petrol,Manual,TN-13,Sholinganallur,Chennai
+374,2017,Maruti Wagon R 1.0,VXI AMT,353000.0,6901.0,75649,Petrol,,TN-13,"Nexus Vijaya Mall, Vadapalani",Chennai
+375,2021,Mahindra Thar,LX PETROL HT 4WD AT,1132000.0,19384.0,19791,Petrol,,TN-14,Sholinganallur,Chennai
+376,2021,Nissan MAGNITE,XV TURBO CVT DUAL TONE,584000.0,10310.0,72369,Petrol,,TN-13,"Nexus Vijaya Mall, Vadapalani",Chennai
+377,2021,Skoda KUSHAQ,STYLE 1.0L TSI MT,788000.0,13913.0,79188,Petrol,Manual,TN-05,"Nexus Vijaya Mall, Vadapalani",Chennai
+378,2024,MG ASTOR,Sprint 1.5 MT (Ivory),857000.0,14670.0,11044,Petrol,Manual,TN-12,"Thiruverkadu, Chennai",Chennai
+379,2021,Jeep Compass,LIMITED (O) 1.4 PETROL DCT,1359000.0,23268.0,41159,Petrol,,TN-14,"Nexus Vijaya Mall, Vadapalani",Chennai
